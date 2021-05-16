@@ -1,0 +1,62 @@
+Pregunta 1		5
+Pregunta 2		1
+Pregunta 3		3
+
+Pregunta 4		1
+La potencia recibida de la señal siempre decae con el aumento de distancia desde el transmisor.
+2 FALSO
+
+Pregunta 5		2
+¿Cómo se determina con mayor precisión la ubicación de la yema del dedo encima de una matriz de sensores capacitivos pixelada (por ejemplo, en una uña)?
+3 Usar el píxel de lectura capacitiva máxima como la coordenada 
+
+Pregunta 6		1
+2 Tener un conjunto de antenas permite que un receptor inalámbrico identifique la distancia desde el transmisor.
+
+
+Pregunta 7		1
+
+Pregunta 8		5
+¿Cuál es el método menos efectivo para inferir la cantidad de iluminación de los accesorios individuales que iluminan una superficie en particular?
+5 Conocimiento de la ubicación de la superficie y la ubicación / dirección de todos los dispositivos de antemano y conocimiento la corriente aplicada a cada dispositivo
+
+Pregunta 9		4
+
+Pregunta 10		5
+JSON-HAL estandariza la siguiente característica no especificada en el estándar de JSON:
+2 Cómo representar hipervínculos entre recursos 
+
+Pregunta 11		5
+En una API hipermedia, un cliente no debería necesitar saber:
+4Cómo construir el URI para un recurso deseado 
+
+Pregunta 12		1
+
+Pregunta 13		4
+¿Qué rango de intensidad puede alcanzarse mediante acelerómetros portátiles para medir la actividad corporal?
+5 Por debajo de 10 µA 
+
+
+Pregunta 14		4
+Pregunta 15		2
+Pregunta 16		2
+Pregunta 17		1
+Pregunta 18		2
+Pregunta 19		2
+
+Pregunta 20		1
+¿Cuál es el protocolo de radio menos adecuado para sistemas portátiles de micropower:
+2 4G LTE o celular 
+
+Pregunta 21		1
+Pregunta 22		2
+Pregunta 23		1
+Pregunta 24		1
+Pregunta 25		2
+Pregunta 26		1
+Pregunta 27		3
+¿Cuáles de estas técnicas se han utilizado para el seguimiento de ubicación en interiores?
+5 Todo lo anterior 
+
+TEMA 1
+1 2 3 4 5 6 7 8 9 10

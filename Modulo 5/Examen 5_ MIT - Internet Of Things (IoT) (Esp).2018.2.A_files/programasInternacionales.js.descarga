@@ -1,0 +1,28 @@
+
+/**
+ * función que se encarga de dar el check en el libro de calificaciones del rol estudiante,
+ * por default el check está presente lo cual implica que las calificaciones
+ * están promediadas con las notas actuales y no las notas totales
+ * @param {element} $("#only_consider_graded_assignments_wrapper") elemento que representa el contenedor del check para calcular sobre las calificaciones existentes.
+ * @param {element} $("#only_consider_graded_assignments") elemento que representa el check para calcular sobre las calificaciones existentes.
+ */
+
+function recalculateCalifications() {
+    $("#only_consider_graded_assignments_wrapper").hide();
+    $("#only_consider_graded_assignments").trigger("click");
+}
+recalculateCalifications();
+
+/**
+ * función que se encarga de dar el check en el libro de calificaciones del rol tutor,
+ * por default el check no está presente lo cual implica que las calificaciones
+ * están promediadas con las notas actuales y no las notas totales
+ * @param {element} $("#include-ungraded-list-item") elemento que representa la etiqueta que dice "Considerar lo no calificado como 0".
+ * @param {element} $("#include_ungraded_assignments") elemento que representa el check para calcular sobre las calificaciones existentes.
+ */
+
+function recalculateCalificationsTutor() {
+    $("#include-ungraded-list-item").hide();
+    $("#include_ungraded_assignments").trigger("click");
+}
+recalculateCalificationsTutor();

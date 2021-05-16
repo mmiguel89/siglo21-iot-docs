@@ -1,0 +1,73 @@
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/EstilosCITE.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/EstilosCentral.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/EstilosUSAM.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/EstilosUa.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/PI/Deloitte/EstiloDeloitte.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/PI/Barcelona/Barcelona.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/PI/UTA/Uta.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/Plant-2.css);
+@import url(https://canvas-rsc.ilumno.com/testilumno/prod/css/UDI/Udi.css);
+
+/************************************************** 
+PROPIEDADES DE LOS LINKS DE LA PAGINA DE LOGIN
+***************************************************/
+.ic-Login-footer .ic-Login-footer__links a, .ic-Login-footer .ic-Login-footer__links .menu-item__text {
+    display: none;
+  font-size: 0.75rem;
+}
+
+.ic-Login-footer .ic-Login-footer__logo-link {
+    display: none;
+}
+
+.footer-logo {
+    display: none;
+}
+
+.ic-app-footer__links a {
+    display: none;
+}
+
+.ic-Login-footer .ic-Login-footer__links {
+  text-align: center;
+}
+/************************************************** 
+OCULTAMIENTO DEL LOGO "By INSTRUCTURE" 
+***************************************************/
+/* Pagina Login */
+.ic-Login-footer .ic-Login-footer__logo-link  {
+    display: none;
+}
+
+/* Footer */
+#footer .footer-logo {
+  display: none;
+}
+/************************************************** 
+  OCULTAMIENTO DE LOS LINKS DE AYUDA
+***************************************************/
+/*#help-dialog-options a[href="https://community.canvaslms.com/community/answers/guides/"] {
+/*Ocultar "Busque en las guide Canvas"*/
+ /* display:none !important; 
+}*/
+
+/*Ocultar "Informe de un problema"*/
+#help-dialog-options a[href="#create_ticket"] {
+  display:none !important; 
+}
+
+/*Ocultar "Preguntar a la comunidad"*/
+#help-dialog-options a[href="https://community.canvaslms.com/community/answers"] {
+  display:none !important; 
+}
+
+/*Ocultar "Enviar una idea de funciones"*/
+#help-dialog-options a[href="https://community.canvaslms.com/community/ideas/feature-ideas"] {
+  display:none !important; 
+}                 
+/************************************************** 
+  CLASES PARA PRODUCCION DE CONTENIDOS
+***************************************************/
+.fondo{
+    background-size: cover !important;
+}

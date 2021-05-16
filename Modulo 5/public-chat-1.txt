@@ -1,0 +1,122 @@
+19:49	Esta conferencia puede ser grabada.<br><br>For help using BigBlueButton watch these (short) <a href="event:http://www.bigbluebutton.org/videos"><u>tutorial videos</u></a>.<br><br>This BigBlueButton session is provided free of charge by Blindside Networks Inc. to Instructure customers.  <b>Recordings are automatically deleted after 14 days.</b>  For <a href="event:http://www.blindsidenetworks.com/instructure/"><u>permanent recordings</u></a> and other premium features, contact your canvas representative.
+Osvaldo Alonso	19:53	Bienvenidos al 2ndo encuentro sincrónico del curso de IoT y MIT-Ilumno,
+Osvaldo Alonso	19:53	Favor de poner en "mute" o deshabilitar su microfono para evitar ruido de fondo
+Osvaldo Alonso	19:54	A los que entren y les aparezca a un lado el icono de Audifono, favor de habilitar su microfono o salir y entrar una vez mas a la conferencia habilitando el modo microfono
+Osvaldo Alonso	19:55	Bienvenidos al encuentro sincrónico del curso de Iot, Ilumno-MIT
+RUBEN GASTON VALLEJOS	19:55	ok
+Osvaldo Alonso	19:55	Empezamos 8:03 pm
+CRISTIAN BENJAMIN SOSTARIC	19:56	22:00pm del viernes (para la gran mayoría)
+Osvaldo Alonso	19:57	10pm hora Argentina
+Osvaldo Alonso	19:57	10:03 pm
+RICARDO PEDERSOLI	20:01	hola, saludos a todos los participantes
+RUBEN GASTON VALLEJOS	20:01	buenas, igualmente.
+SABRINA BAUDES	20:01	hola buenas noches a todos!!!
+MAXIMILIANO ALBERTO CUCCHETTI	20:01	Estimados Mauro y Alejandro, favor de silenciar sus micrófonos.
+MARTIN ALEJANDRO MIGUEL	20:02	Hola a todos como están
+MAURO BARRAZA	20:02	Si señor, no tengo.
+Osvaldo Alonso	20:02	A los que entren y les aparezca a un lado el icono de Audifono, favor de habilitar su microfono o salir y entrar una vez mas a la conferencia habilitando el modo microfono
+MAURO BARRAZA	20:02	Saludos a todos.
+MARTIN ALEJANDRO MIGUEL	20:02	crei que Mauro y Alejandro están en modo solo audio
+MARTIN ALEJANDRO MIGUEL	20:03	creo
+MAURO BARRAZA	20:03	es correcto
+MARTIN ALEJANDRO MIGUEL	20:03	Osvaldo si
+RICARDO PEDERSOLI	20:03	Osvaldo, como adelanté por mensaje estaré algo complicado de tiempo, así espero no tome a mal en caso de salga  del evento anticipadamente.
+CARLOS ESCOBAR	20:03	se escucha correctamente
+GUILLERMO JUAN PABLO GAITAN	20:03	buenas, se oye bien
+MARTIN ALEJANDRO MIGUEL	20:11	No lo veo
+RICARDO PEDERSOLI	20:13	si, algo bajo... ahí mejor
+RICARDO PEDERSOLI	20:18	tu audio se corta
+Osvaldo Alonso	20:19	Si tienes preguntas acerca de los proyectos, lo pueden hacer a través del chat o si gustan alguna pregunta directa al expositor
+Osvaldo Alonso	20:19	Favor de quedarse hasta el final, para escuchar a todos los participantes
+RICARDO PEDERSOLI	20:21	muy interesante
+RICARDO PEDERSOLI	20:25	ya quiero uno... me parece muy buena idea!!! a quien no le pasa querer escuchar algo pero que dependa del día y estado de ánimo!!!
+GUILLERMO JUAN PABLO GAITAN	20:25	muy buenoas ideas
+CARLOS ESCOBAR	20:26	muy bueno!
+MARTIN ALEJANDRO MIGUEL	20:26	un lento de Journey
+MARTIN ALEJANDRO MIGUEL	20:26	al viajar
+MARTIN ALEJANDRO MIGUEL	20:26	me fui 30 años
+RICARDO PEDERSOLI	20:27	auqnue siempre tendrá que permitir poner Hells Bells de AD/DC
+GUILLERMO JUAN PABLO GAITAN	20:28	journey va!!!! jaja acdc tambien
+MARTIN ALEJANDRO MIGUEL	20:28	bárbaro
+RICARDO PEDERSOLI	20:29	tendría la posibilidad de actuar en base al ritmo cardíaco
+RICARDO PEDERSOLI	20:29	un segundo reviso
+MARTIN ALEJANDRO MIGUEL	20:30	ahora
+MAXIMILIANO ALBERTO CUCCHETTI	20:30	La idea si se convierte en una plataforma efectiva es que luego sea interactivo entre personas.
+MARTIN ALEJANDRO MIGUEL	20:30	Esto es genial
+MAXIMILIANO ALBERTO CUCCHETTI	20:30	Incluso silenciando la música si alguien cercano está teniendo una situación médica, a modo de que el entorno preste atención y asista a la persona.
+MARTIN ALEJANDRO MIGUEL	20:32	Que sale una RFID tag?
+GUILLERMO JUAN PABLO GAITAN	20:32	1 dolar aprox
+GUILLERMO JUAN PABLO GAITAN	20:32	hay muchas....
+MARTIN ALEJANDRO MIGUEL	20:34	No soy buen diseñador visual
+GUILLERMO JUAN PABLO GAITAN	20:37	bajisimo el consumo! exelente
+CARLOS ESCOBAR	20:38	cierto! muy bajo consumo
+GUILLERMO JUAN PABLO GAITAN	20:38	las redes celulares en ar. andan asi.... mal
+MARTIN ALEJANDRO MIGUEL	20:39	Gran trabajo
+ARIEL GONZALEZ	20:39	excelente Ruben!
+GUILLERMO JUAN PABLO GAITAN	20:39	mas en el campo... es cierto. muy buen trabajo Ruben
+CARLOS ESCOBAR	20:41	impresionante. se ve muy bueno!
+MARTIN ALEJANDRO MIGUEL	20:41	Acá estoy viendo la web
+GUILLERMO JUAN PABLO GAITAN	20:41	no conocia las sim m2m. interesante
+CARLOS ESCOBAR	20:42	serían sims solo de datos?
+GUILLERMO JUAN PABLO GAITAN	20:42	gracias por el dato. se consiguen facilmente?
+MARTIN ALEJANDRO MIGUEL	20:43	excelente opción
+SEBASTIAN ANDRES MANSILLA	20:43	muy buena info, excelente laburo
+MARCOS BENJAMIN EBERLE PATTERSON	20:43	Tremendo trabajo
+MARCOS BENJAMIN EBERLE PATTERSON	20:43	muy bueno
+GUILLERMO JUAN PABLO GAITAN	20:44	yo estoy listo
+GUILLERMO JUAN PABLO GAITAN	20:44	si estoy
+MARTIN ALEJANDRO MIGUEL	20:44	no se escucha
+RICARDO PEDERSOLI	20:45	a mi me pasó en la notebook que estaba deshabilitado aún cuando la aplicación lo mostraba activo
+GUILLERMO JUAN PABLO GAITAN	20:45	hola hola
+RICARDO PEDERSOLI	20:45	:-)
+CARLOS ESCOBAR	20:46	<a href="event:https://demo.thingsboard.io/dashboard/81d51990-7437-11e8-a80c-5f10b65343cb?publicId=772e0390-749a-11e8-a80c-5f10b65343cb"> <u>https://demo.thingsboard.io/dashboard/81d51990-7437-11e8-a80c-5f10b65343cb?publicId=772e0390-749a-11e8-a80c-5f10b65343cb</u></a>
+MARTIN ALEJANDRO MIGUEL	20:48	TEngo miedo de tocarlo
+RICARDO PEDERSOLI	20:49	genial! tomo nota!!!! en una de mis actividades estoy involucrado en el desarrollo de la automatización de un banco de pruebas de turbinas de avión, esto sería de mucha ayuda para ciertas representaciones
+MARCOS BENJAMIN EBERLE PATTERSON	20:49	yo jaja
+GUILLERMO JUAN PABLO GAITAN	20:51	muy bueno, ahi habilite el mic, espero fncione :(
+MARCOS BENJAMIN EBERLE PATTERSON	20:51	para android o ios tenés una plataforma que está muy buena que se llama Blynk.
+RICARDO PEDERSOLI	20:52	tuve que hacer f5 para que aparezca, perfecto!
+MARTIN ALEJANDRO MIGUEL	20:53	thingsboard sería commo aws de amazon?
+CARLOS ESCOBAR	20:53	si, exacto. pero mas simple
+GUILLERMO JUAN PABLO GAITAN	20:55	claro, lora para poquitos datos y no en tiempo real
+MARTIN ALEJANDRO MIGUEL	20:56	cual red fue la nueva red?
+MARTIN ALEJANDRO MIGUEL	21:00	todo un tema telco
+RUBEN GASTON VALLEJOS	21:00	carlos, quizas un bruto access point y nodos wifi
+RUBEN GASTON VALLEJOS	21:00	:-)
+CARLOS ESCOBAR	21:00	podría ser... por qué no :)
+RUBEN GASTON VALLEJOS	21:01	carlos...excelente la eleccion de MQTT sin dudas
+MARCOS BENJAMIN EBERLE PATTERSON	21:01	Estoy en la página de thingsboard y la verdad que se ve muy buena plataforma para desarrollo de aplicaciones IoT
+RUBEN GASTON VALLEJOS	21:01	yo uso aws
+RUBEN GASTON VALLEJOS	21:01	think shadows
+RICARDO PEDERSOLI	21:01	tengo que investigar aws
+MARTIN ALEJANDRO MIGUEL	21:02	la de google que tal?
+RUBEN GASTON VALLEJOS	21:02	esta buena tambien
+RUBEN GASTON VALLEJOS	21:02	pero me gusta  más aws, por el acceso a recursos ML y BIGDATA
+GUILLERMO JUAN PABLO GAITAN	21:03	no se escucha... estoy limitado con el ancho de banda del celular
+RUBEN GASTON VALLEJOS	21:03	tambien uso SNS, y otros recursos para alarmas y emails
+GUILLERMO JUAN PABLO GAITAN	21:03	perdon
+RICARDO PEDERSOLI	21:03	yo tengo el desafío de encontrar el balance entre la inversión y el bneficio obtenido, muchas veces eso es bastante difícil
+CARLOS ESCOBAR	21:03	si, estuve viendo un poco AWS. y parece muy ineresante
+RICARDO PEDERSOLI	21:03	les propongo que vean Awakke es muy interesante
+MARTIN ALEJANDRO MIGUEL	21:03	Bárbaro aprendí bastante
+RICARDO PEDERSOLI	21:04	gracias a todos y espero que sigamos en el foro
+GUILLERMO JUAN PABLO GAITAN	21:04	saludos a todos, el el foro me explayare mas. gracias
+RUBEN GASTON VALLEJOS	21:04	gracias!
+CARLOS ESCOBAR	21:04	igual, muy buenos proyectos realemente
+MARTIN ALEJANDRO MIGUEL	21:04	Saludos a todos!
+RICARDO PEDERSOLI	21:04	igualmente!!!
+RUBEN GASTON VALLEJOS	21:04	buen finde
+SABRINA BAUDES	21:04	muchasss gracias
+SEBASTIAN ANDRES MANSILLA	21:04	buenas noches
+ARIEL GONZALEZ	21:04	Buen fin de semana!
+CARLOS ESCOBAR	21:04	y muchisimas gracias por compartir la experiencia con LORA
+SABRINA BAUDES	21:04	fue muy interesante
+ARIEL GONZALEZ	21:04	muy buenas ideas
+RICARDO PEDERSOLI	21:04	buenas noches!!!
+SABRINA BAUDES	21:04	hasta  luego
+SABRINA BAUDES	21:04	buenas noches
+GUILLERMO JUAN PABLO GAITAN	21:04	buenas noches
+RUBEN GASTON VALLEJOS	21:05	podriamos hacer una lista de contactos :-)
+MARCOS BENJAMIN EBERLE PATTERSON	21:05	buenas noches... exelentes todos los proyectos me sirvió mucho este ecuentro
+CARLOS ESCOBAR	21:05	el último que apague la luz <a href="event:https://demo.thingsboard.io/dashboard/81d51990-7437-11e8-a80c-5f10b65343cb?publicId=772e0390-749a-11e8-a80c-5f10b65343cb"> <u>https://demo.thingsboard.io/dashboard/81d51990-7437-11e8-a80c-5f10b65343cb?publicId=772e0390-749a-11e8-a80c-5f10b65343cb</u></a>
+CARLOS ESCOBAR	21:05	:D
